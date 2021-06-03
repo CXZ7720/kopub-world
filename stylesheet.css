@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'KoPub Dotum';
+    font-style: normal;
+    font-weight: 300;
+    src: url(//cdn.jsdelivr.net/gh/kopub-world@1.0/fonts/KoPubWorldDotumPL.eot);
+    src: url(//cdn.jsdelivr.net/gh/kopub-world@1.0/fonts/KoPubWorldDotumPL.eot?#iefix) format('embedded-opentype'),
+    url(//cdn.jsdelivr.net/gh/kopub-world@1.0/fonts/KoPubWorldDotumPL.woff) format('woff'),
+    url(//cdn.jsdelivr.net/gh/kopub-world@1.0/fonts/KoPubWorldDotumPL.woff2) format('woff2'),
+    url(//cdn.jsdelivr.net/gh/kopub-world@1.0/fonts/KoPubWorldDotumPL.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'KoPub Dotum';
+    font-style: normal;
+    font-weight: 400;
+    src: url(//cdn.jsdelivr.net/gh/kopub-world@1.0/fonts/KoPubWorldDotumPM.eot);
+    src: url(//cdn.jsdelivr.net/gh/kopub-world@1.0/fonts/KoPubWorldDotumPM.eot?#iefix) format('embedded-opentype'),
+    url(//cdn.jsdelivr.net/gh/kopub-world@1.0/fonts/KoPubWorldDotumPM.woff) format('woff'),
+    url(//cdn.jsdelivr.net/gh/kopub-world@1.0/fonts/KoPubWorldDotumPM.woff2) format('woff2'),
+    url(//cdn.jsdelivr.net/gh/kopub-world@1.0/fonts/KoPubWorldDotumPM.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'KoPub Dotum';
+    font-style: normal;
+    font-weight: 700;
+    src: url(//cdn.jsdelivr.net/gh/kopub-world@1.0/fonts/KoPubWorldDotumPB.eot);
+    src: url(//cdn.jsdelivr.net/gh/kopub-world@1.0/fonts/KoPubWorldDotumPB.eot?#iefix) format('embedded-opentype'),
+    url(//cdn.jsdelivr.net/gh/kopub-world@1.0/fonts/KoPubWorldDotumPB.woff) format('woff'),
+    url(//cdn.jsdelivr.net/gh/kopub-world@1.0/fonts/KoPubWorldDotumPB.woff2) format('woff2'),
+    url(//cdn.jsdelivr.net/gh/kopub-world@1.0/fonts/KoPubWorldDotumPB.ttf) format('truetype');
+}
