@@ -16,10 +16,10 @@
 ## How to use
 ### HTML
 ```html
-<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/CXZ7720/webbfonts@1.0/kopubdotum.min.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/CXZ7720/webbfonts@1.0/kopubdotum.css">
 ```
 
 ### CSS
 ```css
-@import "//cdn.jsdelivr.net/gh/CXZ7720/webfonts@1.0/kopubdotum.min.css";
+@import "//cdn.jsdelivr.net/gh/CXZ7720/webfonts@1.0/kopubdotum.css";
 ```
