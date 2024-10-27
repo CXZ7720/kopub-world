@@ -15,7 +15,6 @@
     src: url('https://cdn.jsdelivr.net/gh/CXZ7720/webfonts/fonts/KoddiUDOnGothic/KoddiUDOnGothic-Bold.eot?#iefix') format('embedded-opentype'),
     url('https://cdn.jsdelivr.net/gh/CXZ7720/webfonts/fonts/KoddiUDOnGothic/KoddiUDOnGothic-Bold.woff2') format('woff2'),
     url('https://cdn.jsdelivr.net/gh/CXZ7720/webfonts/fonts/KoddiUDOnGothic/KoddiUDOnGothic-Bold.woff') format('woff'),
-    url('https://cdn.jsdelivr.net/gh/CXZ7720/webfonts/fonts/KoddiUDOnGothic/KoddiUDOnGothic-Bold.ttf') format('truetype');
 }
 @font-face {
     font-family: 'KoddiUD OnGothic';
@@ -25,5 +24,4 @@
     src: url('https://cdn.jsdelivr.net/gh/CXZ7720/webfonts/fonts/KoddiUDOnGothic/KoddiUDOnGothic-ExtraBold.eot?#iefix') format('embedded-opentype'),
     url('https://cdn.jsdelivr.net/gh/CXZ7720/webfonts/fonts/KoddiUDOnGothic/KoddiUDOnGothic-ExtraBold.woff2') format('woff2'),
     url('https://cdn.jsdelivr.net/gh/CXZ7720/webfonts/fonts/KoddiUDOnGothic/KoddiUDOnGothic-ExtraBold.woff') format('woff'),
-    url('https://cdn.jsdelivr.net/gh/CXZ7720/webfonts/fonts/KoddiUDOnGothic/KoddiUDOnGothic-ExtraBold.ttf') format('truetype');
 }
