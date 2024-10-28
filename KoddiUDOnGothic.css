@@ -13,7 +13,7 @@
     font-weight: bold;
     src: url('https://webfonts.assets.zerogyun.dev/fonts/KoddiUDOnGothic/KoddiUDOnGothic-Bold.eot');
     src: url('https://webfonts.assets.zerogyun.dev/fonts/KoddiUDOnGothic/KoddiUDOnGothic-Bold.eot?#iefix') format('embedded-opentype'),
-    url('https://webfonts.assets.zerogyun.dev/fonts/KoddiUDOnGothic-Bold.woff2') format('woff2'),
+    url('https://webfonts.assets.zerogyun.dev/fonts/KoddiUDOnGothic/KoddiUDOnGothic-Bold.woff2') format('woff2'),
     url('https://webfonts.assets.zerogyun.dev/fonts/KoddiUDOnGothic/KoddiUDOnGothic-Bold.woff') format('woff'),
 }
 @font-face {
